@@ -1,0 +1,17 @@
+{
+  "name": "emails-in-string",
+  "version": "1.0.0",
+  "description": "Extract emails from just about any string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Aaron Cunnington",
+    "email": "azcn2503@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
