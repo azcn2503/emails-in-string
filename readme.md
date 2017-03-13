@@ -1,5 +1,7 @@
 # Emails in String ✉️
 
+[![Build Status](https://travis-ci.org/azcn2503/emails-in-string.svg?branch=master)](https://travis-ci.org/azcn2503/emails-in-string)
+
 Extract unique email addresses out of just about any string!
 
 ### How to use
