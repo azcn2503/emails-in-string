@@ -16,3 +16,7 @@ const uniqueEmails = emailsInString(`user@domain.com,
 ```
 
 Enjoy!
+
+### Tests
+
+A suite of tests can be found in the [./__tests__](__tests__) directory and can be executed by running `npm run test`.
